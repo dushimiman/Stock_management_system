@@ -1,6 +1,6 @@
 <?php
 require_once '../bootstrap.php';
-//only POST request is accepted
+
 if($_SERVER['REQUEST_METHOD'] == 'POST')
 {
     //csrf protection 

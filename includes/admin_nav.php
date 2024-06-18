@@ -12,7 +12,7 @@
         </div>
         <div>
             <a class="navbar-brand" href="#">
-                <img alt="SMS" src="./assets/images/logo.png" style="width:200px; ">
+                <img alt="" src="./assets/images/logo.png" style="width:200px; ">
             </a>
         </div>
 
